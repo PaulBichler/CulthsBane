@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f49fe8ede0aaad4458bae92687792e53
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MapIcon: {fileID: 4437372047502377316, guid: 93bf395a49091ae4f9b2b6d9d3c9960d,
+      type: 3}
+  - Line: {fileID: 8379635408711038334, guid: e13abc6d0e905e54cad760064f981772, type: 3}
+  - dungeonCanvas: {instanceID: 0}
+  - mapCanvas: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

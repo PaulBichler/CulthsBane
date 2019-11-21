@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EnemyList>
+    <Enemy>
+        <Name>Initiate</Name>
+        <Health>15</Health>
+        <Ability>Small Stab</Ability>
+        <Chance>70</Chance>
+        <IsBoss>false</IsBoss>
+    </Enemy>
+    <Enemy>
+        <Name>Initiate</Name>
+        <Health>15</Health>
+        <Ability>Small Shield</Ability>
+        <Chance>30</Chance>
+        <IsBoss>false</IsBoss>
+    </Enemy>
+    <Enemy>
+        <Name>Novice</Name>
+        <Health>20</Health>
+        <Ability>Medium Stab</Ability>
+        <Chance>50</Chance>
+        <IsBoss>false</IsBoss>
+    </Enemy>
+    <Enemy>
+        <Name>Novice</Name>
+        <Health>20</Health>
+        <Ability>Small Shield</Ability>
+        <Chance>30</Chance>
+        <IsBoss>false</IsBoss>
+    </Enemy>
+    <Enemy>
+        <Name>Novice</Name>
+        <Health>20</Health>
+        <Ability>Fire Missile</Ability>
+        <Chance>20</Chance>
+        <IsBoss>false</IsBoss>
+    </Enemy>
+    <Enemy>
+        <Name>Priest</Name>
+        <Health>20</Health>
+        <Ability>Small Stab</Ability>
+        <Chance>40</Chance>
+        <IsBoss>false</IsBoss>
+    </Enemy>
+    <Enemy>
+        <Name>Priest</Name>
+        <Health>20</Health>
+        <Ability>Small Shield</Ability>
+        <Chance>25</Chance>
+        <IsBoss>false</IsBoss>
+    </Enemy>
+    <Enemy>
+        <Name>Priest</Name>
+        <Health>20</Health>
+        <Ability>Medium Heal</Ability>
+        <Chance>25</Chance>
+        <IsBoss>false</IsBoss>
+    </Enemy>
+    <Enemy>
+        <Name>Priest</Name>
+        <Health>20</Health>
+        <Ability>Vampiric Heal</Ability>
+        <Chance>10</Chance>
+        <IsBoss>false</IsBoss>
+    </Enemy>
+    <Enemy>
+        <Name>Titan</Name>
+        <Health>30</Health>
+        <Ability>Medium Stab</Ability>
+        <Chance>60</Chance>
+        <IsBoss>false</IsBoss>
+    </Enemy>
+    <Enemy>
+        <Name>Titan</Name>
+        <Health>30</Health>
+        <Ability>Medium Shield </Ability>
+        <Chance>30</Chance>
+        <IsBoss>false</IsBoss>
+    </Enemy>
+    <Enemy>
+        <Name>Titan</Name>
+        <Health>30</Health>
+        <Ability>Mud Wall</Ability>
+        <Chance>10</Chance>
+        <IsBoss>false</IsBoss>
+    </Enemy>
+    <Enemy>
+        <Name>Shadow</Name>
+        <Health>15</Health>
+        <Ability>Medium Stab</Ability>
+        <Chance>40</Chance>
+        <IsBoss>false</IsBoss>
+    </Enemy>
+    <Enemy>
+        <Name>Shadow</Name>
+        <Health>15</Health>
+        <Ability>Medium Pierce</Ability>
+        <Chance>40</Chance>
+        <IsBoss>false</IsBoss>
+    </Enemy>
+    <Enemy>
+        <Name>Shadow</Name>
+        <Health>15</Health>
+        <Ability>Small Shield</Ability>
+        <Chance>20</Chance>
+        <IsBoss>false</IsBoss>
+    </Enemy>
+    <Enemy>
+        <Name>Tentacle Monster</Name>
+        <Health>80</Health>
+        <Ability>Black Ice</Ability>
+        <Chance>15</Chance>
+        <IsBoss>true</IsBoss>
+    </Enemy>
+    <Enemy>
+        <Name>Tentacle Monster</Name>
+        <Health>80</Health>
+        <Ability>Ice Cage</Ability>
+        <Chance>20</Chance>
+        <IsBoss>true</IsBoss>
+    </Enemy>
+    <Enemy>
+        <Name>Tentacle Monster</Name>
+        <Health>80</Health>
+        <Ability>Tentacle Whip</Ability>
+        <Chance>30</Chance>
+        <IsBoss>true</IsBoss>
+    </Enemy>
+    <Enemy>
+        <Name>Tentacle Monster</Name>
+        <Health>80</Health>
+        <Ability>Ice Shards</Ability>
+        <Chance>20</Chance>
+        <IsBoss>true</IsBoss>
+    </Enemy>
+    <Enemy>
+        <Name>Tentacle Monster</Name>
+        <Health>80</Health>
+        <Ability>Blood Shield</Ability>
+        <Chance>15</Chance>
+        <IsBoss>true</IsBoss>
+    </Enemy>
+    <Enemy>
+        <Name>Demon</Name>
+        <Health>50</Health>
+        <Ability>Magma Armor</Ability>
+        <Chance>20</Chance>
+        <IsBoss>true</IsBoss>
+    </Enemy>
+    <Enemy>
+        <Name>Demon</Name>
+        <Health>50</Health>
+        <Ability>Inferno</Ability>
+        <Chance>10</Chance>
+        <IsBoss>true</IsBoss>
+    </Enemy>
+    <Enemy>
+        <Name>Demon</Name>
+        <Health>50</Health>
+        <Ability>Flame Breath</Ability>
+        <Chance>30</Chance>
+        <IsBoss>true</IsBoss>
+    </Enemy>
+    <Enemy>
+        <Name>Demon</Name>
+        <Health>50</Health>
+        <Ability>Obsidian Armor</Ability>
+        <Chance>20</Chance>
+        <IsBoss>true</IsBoss>
+    </Enemy>
+    <Enemy>
+        <Name>Demon</Name>
+        <Health>50</Health>
+        <Ability>Boulder Toss</Ability>
+        <Chance>20</Chance>
+        <IsBoss>true</IsBoss>
+    </Enemy>
+    <Enemy>
+        <Name>Shakal</Name>
+        <Health>60</Health>
+        <Ability>Absolute Will</Ability>
+        <Chance>15</Chance>
+        <IsBoss>true</IsBoss>
+    </Enemy>
+    <Enemy>
+        <Name>Shakal</Name>
+        <Health>60</Health>
+        <Ability>Smite</Ability>
+        <Chance>55</Chance>
+        <IsBoss>true</IsBoss>
+    </Enemy>
+    <Enemy>
+        <Name>Shakal</Name>
+        <Health>60</Health>
+        <Ability>Prayer</Ability>
+        <Chance>15</Chance>
+        <IsBoss>true</IsBoss>
+    </Enemy>
+    <Enemy>
+        <Name>Shakal</Name>
+        <Health>60</Health>
+        <Ability>Binding Light</Ability>
+        <Chance>15</Chance>
+        <IsBoss>true</IsBoss>
+    </Enemy>
+    <Enemy>
+        <Name>Jester</Name>
+        <Health>70</Health>
+        <Ability>Backstab</Ability>
+        <Chance>20</Chance>
+        <IsBoss>true</IsBoss>
+    </Enemy>
+    <Enemy>
+        <Name>Jester</Name>
+        <Health>70</Health>
+        <Ability>Jack-in-the-box</Ability>
+        <Chance>20</Chance>
+        <IsBoss>true</IsBoss>
+    </Enemy>
+    <Enemy>
+        <Name>Jester</Name>
+        <Health>70</Health>
+        <Ability>Summon Shadow</Ability>
+        <Chance>25</Chance>
+        <IsBoss>true</IsBoss>
+    </Enemy>
+    <Enemy>
+        <Name>Jester</Name>
+        <Health>70</Health>
+        <Ability>Suprise Trick</Ability>
+        <Chance>5</Chance>
+        <IsBoss>true</IsBoss>
+    </Enemy>
+    <Enemy>
+        <Name>Jester</Name>
+        <Health>70</Health>
+        <Ability>Dagger Throw</Ability>
+        <Chance>30</Chance>
+        <IsBoss>true</IsBoss>
+    </Enemy>
+</EnemyList>
